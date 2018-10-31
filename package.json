@@ -2,6 +2,7 @@
   "name": "@yproximite/eslint-config-wordpress",
   "version": "0.0.1",
   "description": "ESLint configuration for our Wordpress projects",
+  "files": ["index.js"],
   "main": "index.js",
   "repository": "https://github.com/Yproximite/eslint-config-wordpress.git",
   "author": "Hugo Alliaume <kocal@live.fr>",
