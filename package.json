@@ -1,6 +1,6 @@
 {
   "name": "@yproximite/eslint-config-wordpress",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration for our Wordpress projects",
   "files": [
     "index.js"
