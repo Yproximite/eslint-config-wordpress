@@ -1,5 +1,8 @@
 # eslint-config-wordpress
-ESLint configuration for our Wordpress projects
+
+[![Build Status](https://travis-ci.com/Yproximite/eslint-config-wordpress.svg?token=pNBs2oaRpfxdyhqWf28h&branch=master)](https://travis-ci.com/Yproximite/eslint-config-wordpress)
+
+> ESLint configuration for our Wordpress projects
 
 ## Features
 
