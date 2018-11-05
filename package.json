@@ -10,7 +10,8 @@
   "author": "Hugo Alliaume <kocal@live.fr>",
   "license": "MIT",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "lint": "eslint file-to-lint.js -c index.js"
   },
   "dependencies": {
     "@yproximite/eslint-config-base": "^0.1.0",
@@ -24,6 +25,7 @@
     "prettier": "^1.14.3"
   },
   "devDependencies": {
+    "eslint": "^5.8.0",
     "standard-version": "^4.4.0"
   },
   "peerDependencies": {
