@@ -762,9 +762,9 @@
     defer-to-connect "^1.0.1"
 
 "@yproximite/eslint-config-base@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-0.1.0.tgz#aa4e9cd472715883475a7be79efcccf40e76759d"
-  integrity sha512-4ZZzdlzcw5Ly5QcX68QholBa3UR8ABadosQL/8odhX+rhgNF1ueZlt29Vcf7ld5AyHkVLfr5AtQttuMadQ9RXA==
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-0.1.1.tgz#e903db64091a9ea11b9f721fedc0b719b384d2c8"
+  integrity sha512-paxhxjuA5BAXvailWloHhpRWqSQcigVTELwMP7jA794aAuE09mWMxY0vI5ncrtKy5djm/Hwj4xsgpkffG7HIrA==
   dependencies:
     babel-eslint "^10.0.1"
 
