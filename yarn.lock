@@ -221,10 +221,10 @@
     into-stream "^4.0.0"
     lodash "^4.17.4"
 
-"@yproximite/eslint-config-base@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-0.1.1.tgz#e903db64091a9ea11b9f721fedc0b719b384d2c8"
-  integrity sha512-paxhxjuA5BAXvailWloHhpRWqSQcigVTELwMP7jA794aAuE09mWMxY0vI5ncrtKy5djm/Hwj4xsgpkffG7HIrA==
+"@yproximite/eslint-config-base@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-0.2.0.tgz#6a3ad4d7a95ccb95247642956d7b2c3544664cb0"
+  integrity sha512-McxOTeCca1usFD/7BW4XX/hJvwNAe6siNhrsLrh2ZLf3D9YDS1IAeZf45Az3H0TdTAP7AVSFhF1Obpx9HDjjFQ==
   dependencies:
     babel-eslint "^10.0.1"
 
