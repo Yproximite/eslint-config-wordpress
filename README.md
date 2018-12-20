@@ -16,13 +16,7 @@
 ## Installation
 
 ```bash
-$ yarn add --dev @yproximite/eslint-config-wordpress
-```
-
-Dont forget to install ESLint too:
-
-```bash
-$ yarn add --dev eslint
+$ yarn add --dev @yproximite/eslint-config-wordpress eslint@^5.8.0 babel-eslint@^10.0.0 prettier@^1.15.0
 ```
 
 ## Usage
