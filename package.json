@@ -17,22 +17,25 @@
     "access": "public"
   },
   "dependencies": {
-    "@yproximite/eslint-config-base": "^0.2.0",
+    "@yproximite/eslint-config-base": "^1.0.0",
     "eslint-config-prettier": "^3.1.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^8.0.0",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "prettier": "^1.14.3"
+    "eslint-plugin-standard": "^4.0.0"
   },
   "devDependencies": {
     "@kocal/semantic-release-preset": "^1.1.0",
+    "babel-eslint": "^10.0.0",
     "eslint": "^5.8.0",
+    "prettier": "^1.15.0",
     "semantic-release": "^15.10.8"
   },
   "peerDependencies": {
-    "eslint": "^5.8.0"
+    "babel-eslint": "^10.0.0",
+    "eslint": "^5.8.0",
+    "prettier": "^1.15.0"
   }
 }
