@@ -222,9 +222,9 @@
     lodash "^4.17.4"
 
 "@yproximite/eslint-config-base@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-1.0.1.tgz#1d27f78fa445f39cbd94bc60daf670fd09df1a75"
-  integrity sha512-Fs/Udxjwf/X1N7eA7zxh4bI+dQoJIi813BSqstgej5jH5x9fPLlXFn/Q9l4J7Q9LEMBAIkeJvVWcS6kMF3myUw==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@yproximite/eslint-config-base/-/eslint-config-base-1.0.2.tgz#543f2dd8fabd75b42ab2662ff0af74a1c07354b6"
+  integrity sha512-att5LOirCVTGiha32uUlqO6AZX6meQnUWugv/QPXXPwkRaXTxEMWOaPwnWL1s+zzm34S0LEXdqO/XRWBIC2mbw==
 
 JSONStream@^1.0.4, JSONStream@^1.3.4:
   version "1.3.5"
