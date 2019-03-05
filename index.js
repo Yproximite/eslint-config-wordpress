@@ -13,5 +13,6 @@ module.exports = {
   },
   rules: {
     'prettier/prettier': 'error',
+    indent: 'off', // Rule defined by prettier, but was overriden by @yproximite/eslint-config-base
   },
 };
