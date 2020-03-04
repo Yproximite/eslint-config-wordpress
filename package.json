@@ -13,11 +13,14 @@
     "lint": "eslint file-to-lint.js -c index.js",
     "semantic-release": "semantic-release"
   },
+  "engines": {
+    "node": ">= 9.0.0"
+  },
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@yproximite/eslint-config-base": "^1.0.0",
+    "@yproximite/eslint-config-base": "^1.0.11",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
@@ -27,15 +30,15 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "devDependencies": {
-    "@kocal/semantic-release-preset": "^1.1.0",
+    "@kocal/semantic-release-preset": "^2.0.0",
     "babel-eslint": "^10.0.0",
-    "eslint": "^5.8.0",
-    "prettier": "^1.15.0",
-    "semantic-release": "^15.10.8"
+    "eslint": "^6.8.0",
+    "prettier": "^1.18.0",
+    "semantic-release": "^17.0.4"
   },
   "peerDependencies": {
     "babel-eslint": "^10.0.0",
-    "eslint": "^5.8.0",
-    "prettier": "^1.15.0"
+    "eslint": "^6.0.0",
+    "prettier": "^1.18.0"
   }
 }

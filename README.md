@@ -1,8 +1,6 @@
 # eslint-config-wordpress
 
-
-[![npm (scoped)](https://img.shields.io/npm/v/@yproximite/eslint-config-wordpress.svg)](https://www.npmjs.com/package/@yproximite/eslint-config-wordpress)
-[![Build Status](https://travis-ci.com/Yproximite/eslint-config-wordpress.svg?token=pNBs2oaRpfxdyhqWf28h&branch=master)](https://travis-ci.com/Yproximite/eslint-config-wordpress)
+![Node CI](https://github.com/Yproximite/eslint-config-wordpress/workflows/Node%20CI/badge.svg)
 
 > ESLint configuration for our Wordpress projects
 
@@ -15,8 +13,18 @@
 
 ## Installation
 
+This package is hosted on [GitHub Packages](https://github.com/features/packages), so you must tell to npm/yarn where to download it.
+Please read [Authenticating to GitHub Packages](https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages#authenticating-to-github-packages).
+
+You can run `npm login --registry=https://npm.pkg.github.com --scope=@yproximite` **or** create a `.npmrc` file with the following content:
+```
+@yproximite:registry=https://npm.pkg.github.com/
+//npm.pkg.github.com/:_authToken=<access token>
+```
+
+Then run: 
 ```bash
-$ yarn add --dev @yproximite/eslint-config-wordpress eslint@^5.8.0 babel-eslint@^10.0.0 prettier@^1.15.0
+$ yarn add --dev @yproximite/eslint-config-wordpress eslint@^6.0.0 babel-eslint@^10.0.0 prettier@^1.18.0
 ```
 
 ## Usage
