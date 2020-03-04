@@ -1,8 +1,6 @@
 # eslint-config-wordpress
 
-
-[![npm (scoped)](https://img.shields.io/npm/v/@yproximite/eslint-config-wordpress.svg)](https://www.npmjs.com/package/@yproximite/eslint-config-wordpress)
-[![Build Status](https://travis-ci.com/Yproximite/eslint-config-wordpress.svg?token=pNBs2oaRpfxdyhqWf28h&branch=master)](https://travis-ci.com/Yproximite/eslint-config-wordpress)
+![Node CI](https://github.com/Yproximite/eslint-config-wordpress/workflows/Node%20CI/badge.svg)
 
 > ESLint configuration for our Wordpress projects
 
