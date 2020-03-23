@@ -34,12 +34,12 @@
     "@kocal/semantic-release-preset": "^2.0.0",
     "babel-eslint": "^10.0.0",
     "eslint": "^6.8.0",
-    "prettier": "^1.18.0",
+    "prettier": "^2.0.1",
     "semantic-release": "^17.0.4"
   },
   "peerDependencies": {
     "babel-eslint": "^10.0.0",
     "eslint": "^6.0.0",
-    "prettier": "^1.18.0"
+    "prettier": "^2.0.1"
   }
 }
