@@ -357,9 +357,9 @@
   integrity sha512-wWKOClTTiizcZhXnPY4wikVAwmdYHp8q6DmC+EJUzAMsycb7HB32Kh9RN4+0gExjmPmZSAQjgURXIGATPegAvA==
 
 "@yproximite/eslint-config-base@^1.0.11":
-  version "1.1.4"
-  resolved "https://npm.pkg.github.com/download/@yproximite/eslint-config-base/1.1.4/dc398d0dc64645b580bbf7f8e023d8b4b9abdc872eaa7f5e96f38b9565d1656f#f404d77e973e8ffd2eee2577e6dedf245ce347ff"
-  integrity sha512-CTdKuRfYqEc2XhSWQHRYnY7QDN6zx+L39Xj/Vpr1jSkorMsuB5VP+EMgt7pICIrvQqpa3icOo2A4+JzvTNmNIA==
+  version "1.1.5"
+  resolved "https://npm.pkg.github.com/download/@yproximite/eslint-config-base/1.1.5/89193c0a8928edf8128270eb1a9b468bd266be521cfff1a1adc99192d1701739#c371bcc7de4f420be3fe223fcf4dc670af1a7928"
+  integrity sha512-vpQGpP2MInJ1oP3Jn8bvlclSiegd/6EeahF7HIbOpsq9A2CGt+mb2cqWw2cQsQdG4MVA0nDHviUgmjILZrCA+w==
 
 JSONStream@^1.0.4, JSONStream@^1.3.4, JSONStream@^1.3.5:
   version "1.3.5"
