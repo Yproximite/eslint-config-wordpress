@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@yproximite/eslint-config-base": "^1.0.11",
-    "eslint-config-prettier": "^6.0.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^10.0.0",
